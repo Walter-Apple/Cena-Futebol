@@ -8,4 +8,4 @@
 <h4>Após isso,fomos na assets store do unity e fizemos o download de um pacote com personagens de futebol,que também incluia um modelo de 
 retângulo de gol.Posicionamos um retângulo de gol em cada extremidade do campo,um jogador no meio do campo (o atacante) e outro no gol (o goleiro)</h4>
 <h4>Para o nosso campo não ser apenas um gramado,colocamos quadrados em volta da grama e adicionamos uma textura de tijolo,para simular uma parede que fecha o campo</h4>
-<h4>No fundo da cena,colocamos </h4>
+<h4>No fundo da cena,colocamos algumas árvores que pegamos na assets store,apenas para não deixar o background muito “cru” </h4>

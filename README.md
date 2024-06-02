@@ -8,6 +8,7 @@
 <img src="https://github.com/Walter-Apple/Cena-Futebol/assets/162507362/f64242fb-3a22-4a95-abc6-00e9d556790f.png">
 
 <h4>Pesquisamos imagens de textura tanto para a bola quanto para a grama e aplicamos em seus devidos objetos no unity</h4>
+<img src="https://github.com/Walter-Apple/Cena-Futebol/assets/162507362/b61efa23-cc0b-4ff9-834b-92c36d145ef9.jpg">
 <h4>Após isso,fomos na assets store do unity e fizemos o download de um pacote com personagens de futebol,que também incluia um modelo de 
 retângulo de gol.Posicionamos um retângulo de gol em cada extremidade do campo,um jogador no meio do campo (o atacante) e outro no gol (o goleiro) e deixamos a bola em cima do jogador atacante,para que quando caísse,parecesse que o jogador tinha chutado</h4>
 <h4>Para o nosso campo não ser apenas um gramado,colocamos quadrados em volta da grama e adicionamos uma textura de tijolo,para simular uma parede que fecha o campo</h4>

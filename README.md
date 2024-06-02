@@ -17,4 +17,5 @@
 <h4>No fundo da cena,colocamos algumas árvores que pegamos na assets store,apenas para não deixar o background muito “cru” </h4>
 <img src="https://github.com/Walter-Apple/Cena-Futebol/assets/162507362/1afe157e-84e8-425b-ad3f-83c9b1dd62c4.png">
 <h4>Para fazer o meteoro,criamos uma esfera,deixamos ela bem grande e adicionamos uma textura de rocha.Posicionamos o meteoro bem acima do campo,para dar o tempo perfeito de ele cair</h4>
+<img src="https://github.com/Walter-Apple/Cena-Futebol/assets/162507362/df1ac00a-49fa-463a-978c-400a3b1a0f15.png">
 <h4>Para finalizar,colocamos a câmera numa posição que ela pegasse todo o campo,e só uma pontinha do meteoro,para termos um corte engraçado na hora de gravar a cena</h4>
